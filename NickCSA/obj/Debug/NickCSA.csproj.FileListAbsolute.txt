@@ -1,0 +1,9 @@
+C:\Users\Nick\Desktop\FRC\CSA\CSA-Tool\NickCSA\bin\Debug\NickCSA.exe.config
+C:\Users\Nick\Desktop\FRC\CSA\CSA-Tool\NickCSA\bin\Debug\NickCSA.exe
+C:\Users\Nick\Desktop\FRC\CSA\CSA-Tool\NickCSA\bin\Debug\NickCSA.pdb
+C:\Users\Nick\Desktop\FRC\CSA\CSA-Tool\NickCSA\obj\Debug\NickCSA.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\FRC\CSA\CSA-Tool\NickCSA\obj\Debug\NickCSA.Form1.resources
+C:\Users\Nick\Desktop\FRC\CSA\CSA-Tool\NickCSA\obj\Debug\NickCSA.Properties.Resources.resources
+C:\Users\Nick\Desktop\FRC\CSA\CSA-Tool\NickCSA\obj\Debug\NickCSA.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\FRC\CSA\CSA-Tool\NickCSA\obj\Debug\NickCSA.exe
+C:\Users\Nick\Desktop\FRC\CSA\CSA-Tool\NickCSA\obj\Debug\NickCSA.pdb
